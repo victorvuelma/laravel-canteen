@@ -14,7 +14,7 @@
         "bootstrap": "^4.3.1",
         "cross-env": "^5.1",
         "inputmask": "^4.0.8",
-        "jquery": "^3.4.1",
+        "jquery": "^3.5.0",
         "laravel-mix": "^4.0.7",
         "popper.js": "^1.15.0",
         "resolve-url-loader": "3.1.0",
